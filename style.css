@@ -73,16 +73,11 @@ div#wrapper,footer{
 .headprojects{
     margin-left:60px;
 }
-.btn {
-    background-color: grey;
-    border: none;
-    color: black;
-    padding: 12px 16px;
-    font-size: 16px;
-    cursor: pointer;
+.contactphoto{
+   margin-left: 100px;
+    margin-top: 20px;
 }
+.infostaff{
+    margin-left:100px;
 
-/* Darker background on mouse-over */
-.btn:hover {
-    background-color: darkgray;
 }
