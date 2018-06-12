@@ -26,7 +26,18 @@ div#wrapper,footer{
 
 .nav > li > a{
     text-decoration: none;
-    color: #FFFFFF;
+    color: #FFF;
+    font-size: 16px;
+    display: inline-block;
+
+}
+.nav >li>a:hover{
+    opacity: 0.6;
+}
+.line{
+    width: 120px;
+    height: 3px;
+    background-color:#FFF;
 }
 
 .main{
@@ -81,3 +92,7 @@ div#wrapper,footer{
     margin-left:100px;
 
 }
+.li > .active{
+    color: blue;
+}
+
